@@ -3,6 +3,7 @@ export const NAMES = [
     'daniel',
     'carter',
     'gavin',
+    'garret',
     'christopher',
     'andrew',
     'sam',
