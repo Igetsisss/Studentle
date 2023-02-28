@@ -9,6 +9,7 @@ export const NAMES = [
     'sam',
     'robert',
     'philip',
+    'sarah',
     'ryan',
     'ajani',
     'jon',
