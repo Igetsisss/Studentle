@@ -82,7 +82,6 @@ export const NAMES = [
     'ansley',
     'betsy',
     'sophia',
-    'alexa',
     'blair',
     'grace',
     'meriwether',
