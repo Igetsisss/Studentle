@@ -79,7 +79,7 @@ function checkGuess() {
     return;
   }
 
-  var letterColor = ["gray", "gray", "gray", "gray", "gray", "gray","gray","gray","gray","gray","gray","gray","gray","gray","gray",];
+  var letterColor = ["gray", "gray", "gray", "gray", "gray", "gray","gray","gray","gray","gray","gray","gray","gray","gray","gray"];
 
   //check green
   //!
