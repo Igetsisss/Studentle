@@ -84,6 +84,7 @@ h2 {
   border-radius: 5px;
   box-shadow: 2px 2px #c0a3a3; /* pink */
   transition: all 0.2s ease-in-out;
+  touch-action: manipulation;
 }
 
 .keyboard-button:hover {
@@ -100,6 +101,7 @@ h2 {
   background-color: #fff;
   color: #333; /* dark gray */
   text-shadow: none;
+  touch-action: manipulation;
 }
 
 img {
