@@ -111,7 +111,6 @@ export const NAMES = [
     'leah',
     'sasha',
     'sophia',
-    'camilla',
     'marley',
     'eva',
     'harley',
