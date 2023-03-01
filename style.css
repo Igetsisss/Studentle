@@ -91,7 +91,7 @@ h2 {
   transform: scale(1.1);
   box-shadow: 3px 3px #f8f8f8; /* pink */
   background-color: #ffffff; /* bright yellow */
-  color: #333; /* dark gray */
+  color: #ffffff; /* dark gray */
   text-shadow: none;
 }
 
@@ -99,7 +99,7 @@ h2 {
   transform: translateY(2px);
   box-shadow: 1px 1px #573f3f; /* pink */
   background-color: #fff;
-  color: #333; /* dark gray */
+  color: #ffffff; /* dark gray */
   text-shadow: none;
   touch-action: manipulation;
 }
