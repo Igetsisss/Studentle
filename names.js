@@ -15,6 +15,7 @@ export const NAMES = [
     'jon',
     'nicholas',
     'louis',
+    'hayes',
     'camellia',
     'connor',
     'jones',
