@@ -42,7 +42,7 @@ export const NAMES = [
     'logan',
     'george',
     'kamran',
-    'zachary',
+    'luke',
     'edmond',
     'ryder',
     'albert',
