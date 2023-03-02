@@ -1,22 +1,13 @@
 <!DOCTYPE html>
 <html lang="it">
   <head>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QGW5F17CDS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-QGW5F17CDS');
-</script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
     <title>Studentle - Wordle But With Students</title>
     <!--<meta name="description" content="Guess the hidden word in 6 tries. A new puzzle is available each day.">-->
     <meta name="description" content="Guess the hidden student. A new puzzle is available each day.">
-    
+     
     <!-- FB Meta Tags -->
     <meta property="og:url" content="https://studentle.jackunderwood.org">
     <meta property="og:type" content="website">
@@ -29,10 +20,9 @@
     <meta property="twitter:domain" content="pietroppeter.github.io/wordle-it">
 
     <meta name="theme-color" content="#6aaa64" />
-   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
+    <link rel="manifest" href="manifest.json" />
+    <link href="images/parle_logo_32x32.png" rel="icon shortcut" sizes="3232" />
+    <link href="images/parle_logo_192x192.png" rel="apple-touch-icon" />
     <script>
      function randomAnalytics() {
       // analytics are loaded once every X times
@@ -149,17 +139,22 @@
         /* Prevent scrollbar appearing on page transition */
         overflow-y: hidden;
       }
+      h2{
+         margin: 
+      }
     </style>
   </head>
   <body onload="randomAnalytics();">
+
     <script>
       (function () {
         // Defining the hash before the main bundle allows the bundle access window.hash
         window.wordle = window.wordle || {};
-        window.wordle.hash = 'studentle v1.0';
+        window.wordle.hash = 'studentle v1';
       })();
     </script>
     <script src="wordle-it.js"></script>
     <game-app></game-app>
+    
   </body>
 </html>
