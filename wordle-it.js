@@ -1127,7 +1127,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
   }(c(HTMLElement));
   
   customElements.define("game-toast", Ea);
-  var Aa = ['leah', 'chase', 'sean', 'moses', 'will', 'george', 'carter', 'mary', 'thomas', 'anna', 'olivia', 'preston', 'sophia', 'chase', 'avalina', 'graham', 'jackson', 'layla', 'sasha', 'maxx', 'ansley', 'grace', 'blair', 'knox', 'logan', 'brent', 'sarah', 'ryder', 'taylor', 'ryder', 'sophia', 'bryce', 'eliana', 'tyler', 'jack', 'daniel', 'connor', 'brooke', 'edmond', 'kenzo', 'sophia', 'paige', 'tucker', 'margot', 'jones', 'ella', 'marley', 'john', 'harley', 'emmy', 'nora', 'philip', 'john', 'kamran', 'hannah', 'gavin', 'sienna', 'tyson', 'teagan', 'daniel', 'claire', 'julian', 'mcvey', 'dean', 'avery', 'emma', 'claire', 'garret', 'ella', 'betsy', 'amara', 'colt', 'albert', 'amelia', 'audrey', 'kade', 'havana', 'hunter', 'emma', 'andrew', 'ajani', 'grant'] ,     La = ['mitchell',
+  var Aa = ['leah', 'chase', 'avalina', 'moses', 'will', 'george', 'carter', 'mary', 'thomas', 'anna', 'olivia', 'preston', 'sophia', 'chase', 'avalina', 'graham', 'jackson', 'layla', 'sasha', 'maxx', 'ansley', 'grace', 'blair', 'knox', 'logan', 'brent', 'sarah', 'ryder', 'taylor', 'ryder', 'sophia', 'bryce', 'eliana', 'tyler', 'jack', 'daniel', 'connor', 'brooke', 'edmond', 'kenzo', 'sophia', 'paige', 'tucker', 'margot', 'jones', 'ella', 'marley', 'john', 'harley', 'emmy', 'nora', 'philip', 'john', 'kamran', 'hannah', 'gavin', 'sienna', 'tyson', 'teagan', 'daniel', 'claire', 'julian', 'mcvey', 'dean', 'avery', 'emma', 'claire', 'garret', 'ella', 'betsy', 'amara', 'colt', 'albert', 'amelia', 'audrey', 'kade', 'havana', 'hunter', 'emma', 'andrew', 'ajani', 'grant'] ,     La = ['mitchell',
   'daniel',
   'carter',
   'gavin',
